@@ -11,39 +11,50 @@ rdiscount:
 # Basics
 #
 # 0. Page title and theme
-title:            Stair-Rover
+title:            Christopher Doyle's Hong Kong Trilogy: Preschooled, Preoccupied, Preposterous
 theme:            basic
 #
 # 1. Your website ( could be same as this page - see below )
-website:          http://www.stair-rover.com/
+website:          http://www.hktrilogy.com/
 #
 # 2. URL of this page
-url:              http://[your_username].github.io/
+url:              http://straybud.github.io/
 #
 # 3. About your kickstarter project
 project:
   #
   # Name of the project
-  name:           Stair-Rover
+  name:           Christopher Doyle's Hong Kong Trilogy: Preschooled, Preoccupied, Preposterous
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
-  url:            http://kck.st/12bbLkw
+  url:            http://kck.st/13W5pOu
   #
   # URL of a cover photo of your project
   cover_image:    http://static.wixstatic.com/media/b11e60_7416a5fc41a5d30b8b458bbe6c23b90f.jpg
   #
   # Use a one-liner to describe your project
-  description:    Stair-Rover is a longboard that glides down stairs with a blast.
+  description:    HONG KONG TRILOGY: PRESCHOOLED PREOCCUPIED PREPOSTEROUS, directed by the award-winning cinematographer Christopher Doyle, is a story of Hong Kong told by three generations: our children, our young, and our old.
 #
 # 4. Your Twitter handle
-twitter_handle:   StairRover
+twitter_handle:   dukefeng52
 #
 # 5. Your Google analytics ID (Optional)
 google_analytics: 
 #
 # 6. Welcome text, add <br /> to break lines
 welcome_text:     |
-  This is the Stair-Rover team greeting from London. <br />
-  First of all, thank you for signing up to our mailing list. <br />
-  Here's to tell you that our project is now live on Kickstarter,
-  and now we have to count on your support to not only back the project, but also share the love. ♥
+  <p> <b>Hello!</b><br /><br />
+                Hong Kong has given us so much. Its <i> dai pai dongs </i>(street food stalls) feed us, its light inspires us, its sea calms us. This is where we dream when we sleep at night.
+
+            </br>
+                
+                When the Umbrella Movement began, we were astonished to find that the questions we ask in our film were the same as those asked by our community. Who is Hong Kong? What do we want for our future? How do we get it? What is stopping us? These are the most important questions facing our society today.</br>
+                
+                Our film is a reflection of a city’s awakening. We want to take the voices of our city and give it back to the Hong Kong people at this critical time, and by sharing the result with everyone around the world, we hope to inspire others of different cultures to ask the same questions of themselves.
+
+Please click one (or all!) of the links below to share the Hong Kong love, donate to our Kickstarter campaign, and help us let Hong Kong speak for itself.
+                <br /><br />
+                <b>Thanks so much,</b>
+                <br />
+                Christopher Doyle, Jenny Suen and Ken Hui
+            </p>
