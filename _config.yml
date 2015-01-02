@@ -42,19 +42,14 @@ twitter_handle:   dukefeng52
 google_analytics: 
 #
 # 6. Welcome text, add <br /> to break lines
-welcome_text:     |
-  <p> <b>Hello!</b><br /><br />
-                Hong Kong has given us so much. Its <i> dai pai dongs </i>(street food stalls) feed us, its light inspires us, its sea calms us. This is where we dream when we sleep at night.
-
-            </br>
-                
-                When the Umbrella Movement began, we were astonished to find that the questions we ask in our film were the same as those asked by our community. Who is Hong Kong? What do we want for our future? How do we get it? What is stopping us? These are the most important questions facing our society today.</br>
-                
-                Our film is a reflection of a city’s awakening. We want to take the voices of our city and give it back to the Hong Kong people at this critical time, and by sharing the result with everyone around the world, we hope to inspire others of different cultures to ask the same questions of themselves.
-
-Please click one (or all!) of the links below to share the Hong Kong love, donate to our Kickstarter campaign, and help us let Hong Kong speak for itself.
-                <br /><br />
-                <b>Thanks so much,</b>
+welcome_text:     
+  Hello!<br />
+Hong Kong has given us so much. Its <i> dai pai dongs </i>(street food stalls) feed us, its light inspires us, its sea calms us. This is where we dream when we sleep at night.
+</br>
+ When the Umbrella Movement began, we were astonished to find that the questions we ask in our film were the same as those asked by our community. Who is Hong Kong? What do we want for our future? How do we get it? What is stopping us? These are the most important questions facing our society today.</br>
+</br> Our film is a reflection of a city’s awakening. We want to take the voices of our city and give it back to the Hong Kong people at this critical time, and by sharing the result with everyone around the world, we hope to inspire others of different cultures to ask the same questions of themselves.
+</br> Please click one (or all!) of the links below to share the Hong Kong love, donate to our Kickstarter campaign, and help us let Hong Kong speak for itself.
+<br /><br />
+Thanks so much,
                 <br />
                 Christopher Doyle, Jenny Suen and Ken Hui
-            </p>
